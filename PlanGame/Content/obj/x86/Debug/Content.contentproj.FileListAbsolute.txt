@@ -1,0 +1,2 @@
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlaneGame\PlanGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache

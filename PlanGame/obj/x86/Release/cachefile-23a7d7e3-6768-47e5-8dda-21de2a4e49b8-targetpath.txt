@@ -1,0 +1,7 @@
+Content\Images\Plane.xnb
+Content\Images\enemy.xnb
+Content\Images\bum.xnb
+Content\Images\bumm.xnb
+Content\Images\background.xnb
+Content\Fonts\Arial.xnb
+Content\Fonts\Rockwell.xnb

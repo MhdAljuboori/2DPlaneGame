@@ -1,0 +1,13 @@
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Debug\Content\Images\Plan.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Debug\Content\Images\enemy.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Debug\Content\Images\bum.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Debug\Content\Images\bumm.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Debug\PlanGame.exe
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Debug\PlanGame.pdb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\obj\x86\Debug\PlanGame.exe
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\obj\x86\Debug\PlanGame.pdb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Debug\Content\Fonts\Lucida.xnb

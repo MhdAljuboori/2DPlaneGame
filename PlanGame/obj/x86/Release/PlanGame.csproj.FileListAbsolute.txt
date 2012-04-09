@@ -1,0 +1,13 @@
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Release\Content\Images\Plan.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Release\Content\Images\enemy.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Release\Content\Images\bum.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Release\Content\Images\bumm.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Release\PlanGame.exe
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Release\PlanGame.pdb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\obj\x86\Release\PlanGame.exe
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\obj\x86\Release\PlanGame.pdb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Release\Content\Images\background.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Release\Content\Fonts\Arial.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\PlanGame\PlanGame\bin\x86\Release\Content\Fonts\Lucida.xnb
